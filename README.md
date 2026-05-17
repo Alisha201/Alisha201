@@ -11,9 +11,8 @@
 <br/>
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abualisha-1b489b271)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abu-alisha-1b489b271)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abualisha941@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/abualisha?style=for-the-badge&color=43D9AD&labelColor=0d1117&logo=github)](https://github.com/abualisha)
 
 </div>
 
